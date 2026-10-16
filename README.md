@@ -6,7 +6,7 @@ An end-to-end data analytics project using Python and Microsoft Excel to explore
 
 ## 🔗 Google Colab Notebook
 
-[Open the FreshCart Analysis Notebook](https://colab.research.google.com/drive/1tv8mdAdua9swzka1WiAgGiVap7ISg_I_?usp=sharing)
+[[Open the FreshCart Analysis Notebook](https://colab.research.google.com/drive/1tv8mdAdua9swzka1WiAgGiVap7ISg_I_?usp=sharing)](https://colab.research.google.com/drive/1tv8mdAdua9swzkalWiAgGiVap7ISg_I_?usp=sharing)
 
 ## 🛠️ Tech Stack
 
